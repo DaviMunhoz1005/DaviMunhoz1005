@@ -2,9 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zixx.zl/)
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMunhoz1005&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMunhoz1005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMunhoz1005&show_icons=true&theme=synthwave)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMunhoz1005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens que estou estudando 💼
 
