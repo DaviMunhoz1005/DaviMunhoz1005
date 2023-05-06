@@ -33,4 +33,3 @@
 
 #Me esforçando cada dia mais para conseguir me tornar um profissional na área da programação 🤩
   
-![snake gif](https://github.com/DaviMunhoz1005/blob/output/github-contribution-grid-snake.svg)
