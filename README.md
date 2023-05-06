@@ -12,8 +12,8 @@
   
 <a href = "https://github.com/DaviMunhoz1005">
 
-  <img width="425px" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviMunhoz1005&show_icons=true&hide_border=true&title_color=191970&icon_color=191970&text_color=c9d1d9&bg_color=0d1117" alt="Davi Munhoz github stats" /> 
-  <img width="425px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMunhoz1005&layout=compact&hide_border=true&title_color=191970&text_color=ff91a4&bg_color=0d1117" />
+  <img width="420px" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviMunhoz1005&show_icons=true&hide_border=true&title_color=191970&icon_color=191970&text_color=c9d1d9&bg_color=0d1117" alt="Davi Munhoz github stats" /> 
+  <img width="420px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMunhoz1005&layout=compact&hide_border=true&title_color=191970&text_color=ff91a4&bg_color=0d1117" />
 
 <div/>
 
