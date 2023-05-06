@@ -11,6 +11,8 @@
 
 <div/>
 
+  ![Snake animation](https://github.com/DaviMunhoz1005/DaviMunhoz1005/blob/output/github-contribution-grid-snake.svg)
+  
 ### Linguagens que estou estudando 💼
 
 <div style="display: inline_block">
@@ -19,7 +21,5 @@
   "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img align = "center" alt = "Python" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   
 <div/> 
-  
-![Snake animation](https://github.com/DaviMunhoz1005/DaviMunhoz1005/blob/output/github-contribution-grid-snake.svg)
-  
+
 #Me esforçando cada dia mais para conseguir me tornar um profissional na área da programação 🤩
