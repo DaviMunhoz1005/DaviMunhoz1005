@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Davi+Munhoz.;Eu+tenho+16+anos.;Sou+estudande+da+ETEC.;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Davi+Munhoz.;Eu+tenho+16+anos.;Sou+estudande+da+ETEC.;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
  
 <div align = "center">
   
@@ -12,9 +12,8 @@
   
 <a href = "https://github.com/DaviMunhoz1005">
 
-  <img width="420px" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviMunhoz1005&show_icons=true&hide_border=true&title_color=191970&icon_color=191970&text_color=c9d1d9&bg_color=0d1117" alt="Davi Munhoz github stats" /><img width="420x" height="195x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimunhoz1005&layout=compact&hide_border=true&title_color=191970&text_color=ff91a4&bg_color=0d1117" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMunhoz1005&hide_border=true&title_color=40E0D0&icon_color=40E0D0&text_color=c9d1d9&bg_color=0d1117)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMunhoz1005&layout=compact&hide_border=true&title_color=40E0D0&icon_color=40E0D0&text_color=40E0D0&bg_color=0d1117)
   
-
 <div/>
 
 <div align = "center" style="display: inline_block">
