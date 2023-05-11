@@ -11,8 +11,7 @@
 <div align = "center">
   
 <a href = "https://github.com/DaviMunhoz1005">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMunhoz1005&hide_border=true&title_color=40E0D0&icon_color=40E0D0&text_color=c9d1d9&bg_color=0d1117)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMunhoz1005&layout=compact&hide_border=true&title_color=40E0D0&icon_color=40E0D0&text_color=40E0D0&bg_color=0d1117)
+  
   
 <div/>
 
