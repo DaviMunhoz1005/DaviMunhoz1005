@@ -26,12 +26,6 @@
 
 <div align="center">
   
-  <br><p align="centre"><b>Contador de Visitas:</b></p>  
-
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DaviMunhoz1005}/count.svg" /></p> 
-
-  <br>
-  
   <h2>Me esforçando cada dia mais para conseguir me tornar um profissional na área da programação 🤩<h2/>
   
 </div>
