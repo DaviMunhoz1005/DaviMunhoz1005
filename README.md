@@ -24,6 +24,14 @@
   
 <div/> 
 
+<div align = "center" style="display: inline_block">
+  
+### Frameworks que estou estudando 💼
+
+<img align = "center" alt = "Java" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+          
+<div/> 
+
 <div align="center">
   
   <h2>Me esforçando cada dia mais para conseguir me tornar um profissional na área da programação 🤩<h2/>
