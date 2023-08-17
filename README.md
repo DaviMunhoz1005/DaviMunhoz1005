@@ -1,39 +1,37 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Davi+Munhoz.;Eu+tenho+16+anos.;Sou+estudande+da+ETEC.;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
- 
-<div align = "center">
-  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Davi+Munhoz.;I+have+16+years+old.;welcome+t+my+profile!+:%29)](https://git.io/typing-svg)
+
+# 💫 About Me:
+I'm studying Systems Development at ETEC Professor Camargo Aranha
+
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zixx.zl/)<a href = "mailto:cmp.1a.davimunhoz1005@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<div/>  
-  
+## 💼 Languages:
+
+<img align = "center" alt = "Java" height = "70" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> <img align = "center" alt = "PHP" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img align = "center" alt = "TypeScript" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img align = "center" alt = "JavaScript" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+## 💼 Frameworks & Libraries:
+
+<img align = "center" alt = "Spring" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img 
+align = "center" alt = "Node.js" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+## 💼 Others:
+
+<img align = "center" alt = "MySQL" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img align = "center" alt = "Docker" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
 <div align = "center">
-  
-<a href = "https://github.com/DaviMunhoz1005">
-  
-  
-<div/>
 
-<div align = "center" style="display: inline_block">
-  
-### Linguagens que estou estudando 💼
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DaviMunhoz1005&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DaviMunhoz1005&theme=vue-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMunhoz1005&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align = "center" alt = "Java" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/><img align = "center" alt = "PHP" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/><img align = "center" alt = "JavaScript" height = "50" width = "50" src =
-  "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  
-<div/> 
-
-<div align = "center" style="display: inline_block">
-  
-### Frameworks que estou estudando 💼
-
-<img align = "center" alt = "Java" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-          
-<div/> 
+</div>
 
 <div align="center">
   
-  <h2>Me esforçando cada dia mais para conseguir me tornar um profissional na área da programação 🤩<h2/>
+  <h2>Trying harder every day to become a professional in the field of programming 🤩<h2/>
   
 </div>
