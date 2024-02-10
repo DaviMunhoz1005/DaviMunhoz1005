@@ -22,14 +22,6 @@ align = "center" alt = "Node.js" height = "70" width = "70" src="https://cdn.jsd
 <img align = "center" alt = "MySQL" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img align = "center" alt = "Docker" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
 <div align="center">
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DaviMunhoz1005&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMunhoz1005&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-<div align="center">
   
   <h2>Trying harder every day to become a professional in the field of programming 🤩<h2/>
   
