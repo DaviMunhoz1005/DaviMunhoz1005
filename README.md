@@ -2,13 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Davi+Munhoz.;I+have+17+years+old.;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
-# 💫 About Me:
-
-I'm studying Systems Development at ETEC Professor Camargo Aranha
-
-# 🌐 Socials:
+## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zixx.zl/)<a href = "mailto:cmp.1a.davimunhoz1005@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<p align="center">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMunhoz1005&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMunhoz1005&layout=donut&theme=transparent)](https://github.com/DaviMunhoz1005/github-readme-stats)
+
+
+</p>
 
 ## Languages and Frameworks:
 
