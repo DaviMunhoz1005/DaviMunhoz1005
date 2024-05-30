@@ -3,26 +3,29 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Davi+Munhoz.;I+have+16+years+old.;welcome+t+my+profile!+:%29)](https://git.io/typing-svg)
 
 # 💫 About Me:
+
 I'm studying Systems Development at ETEC Professor Camargo Aranha
 
-## 🌐 Socials:
+# 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zixx.zl/)<a href = "mailto:cmp.1a.davimunhoz1005@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-## 💼 Languages:
+## Languages and Frameworks:
 
-<img align = "center" alt = "Java" height = "70" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> <img align = "center" alt = "PHP" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img align = "center" alt = "TypeScript" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img align = "center" alt = "JavaScript" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,php,spring" />
+  </a>
+</p>
 
-## 💼 Frameworks & Libraries:
+## Others:
 
-<img align = "center" alt = "Spring" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img 
-align = "center" alt = "Node.js" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-## 💼 Others:
-
-<img align = "center" alt = "MySQL" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img align = "center" alt = "Docker" height = "70" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,mysql,idea" />
+  </a>
+</p>
 
 <div align="center">
-  
   <h2>Trying harder every day to become a professional in the field of programming 🤩<h2/>
-  
 </div>
