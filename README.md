@@ -28,7 +28,3 @@
     <img src="https://skillicons.dev/icons?i=git,mysql,idea" />
   </a>
 </p>
-
-<div align="center">
-  <h2>Trying harder every day to become a professional in the field of programming 🤩<h2/>
-</div>
