@@ -23,6 +23,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mysql,idea,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=git,mysql,idea,ubuntu,bash" />
   </a>
 </p>
