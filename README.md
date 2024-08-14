@@ -11,7 +11,7 @@
 
 </p>
 
-## Languages and Frameworks I user:
+## Languages and Frameworks I use:
 
 <p align="center">
   <a href="https://skillicons.dev">
