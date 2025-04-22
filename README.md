@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMunhoz1005&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMunhoz1005&layout=donut&theme=transparent&hide=html,makefile,dtrace)](https://github.com/DaviMunhoz1005/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviMunhoz1005&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMunhoz1005&layout=donut&theme=transparent&hide=html,makefile,dtrace,css)](https://github.com/DaviMunhoz1005/github-readme-stats)
   ![Davi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaviMunhoz1005&hide_border=true&area=true&layout=compact&title_color=9932cc&bg_color=transparent&color=9932cc&line=9932cc&point=9932cc&area_color=9932cc&count_private=true)
 
 </div>
