@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mysql,idea,ubuntu,bash,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,mysql,idea,vscode,ubuntu,bash,arduino" />
   </a>
 </p>
 
