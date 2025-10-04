@@ -17,19 +17,17 @@
 
 ## Languages and Frameworks I use:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,java,rust,c,js,python,html,css,sass,bootstrap,tailwind" />
-  </a>
-</p>
+### 💻 Front-end
 
-## Others:
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,vite" /> </a> </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mysql,idea,vscode,ubuntu,bash,arduino" />
-  </a>
-</p>
+### ⚙️ Back-end
+
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=spring,java,nodejs,python,rust,c" /> </a> </p>
+
+### 🛠️ Tools and Platforms
+
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,mysql,postgres,idea,vscode,pycharm,ubuntu,bash,docker,postman,arduino,obsidian" /> </a> </p>
 
 ## Challenging projects for me
 
