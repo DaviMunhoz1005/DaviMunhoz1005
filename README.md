@@ -28,12 +28,3 @@
 ### 🛠️ Tools and Platforms
 
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,mysql,postgres,idea,vscode,pycharm,ubuntu,bash,docker,postman,arduino,obsidian" /> </a> </p>
-
-## Challenging projects for me
-
-<div align="center">
-  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DaviMunhoz1005&repo=GedApi&show_icons=true&theme=transparent)](https://github.com/DaviMunhoz1005/GedApi)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DaviMunhoz1005&repo=Drawback.docs&show_icons=true&theme=transparent)](https://github.com/DaviMunhoz1005/Drawback.docs)
-
-</div>
